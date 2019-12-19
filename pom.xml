@@ -11,7 +11,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.github.chris</groupId>
-    <artifactId>git</artifactId>
+    <artifactId>swagger-spring-boot-starter</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <!--从私服拉取jar包-->
