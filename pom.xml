@@ -34,9 +34,8 @@
 
     <!-- 仓库信息 -->
     <scm>
-        <connection>https://github.com/Sunshinezmh/swagger-spring-boot-starter.git</connection>
-        <developerConnection>https://github.com/Sunshinezmh/swagger-spring-boot-starter.git
-        </developerConnection>
+        <connection>https://github.com/Chris-wolf-wen/swagger-spring-boot-starter.git</connection>
+        <developerConnection>https://github.com/Chris-wolf-wen/swagger-spring-boot-starter.git</developerConnection>
     </scm>
 
 
